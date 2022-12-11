@@ -21,10 +21,18 @@
 
 ---
 
-### <u>*1. Связь между таблицами базы данных:*</u>
+### <u>*1. Определите, на каком протоколе работает сайт:*</u>
 
 <img src="pictures/protocol.jpg" height=250 width="250"/>
 
-:point_right: [Связь между таблицами](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/protocol.jpg "Открыть")
+:point_right: [Протокол](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/protocol.jpg "Открыть")
+
+---
+
+### <u>*2. Проанализируйте структуру страницы сайта:*</u>
+
+<img src="pictures/page_structure.jpg" height=250 width="250"/>
+
+:point_right: [Структура страницы сайта](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/page_structure.jpg "Открыть")
 
 ---
