@@ -37,7 +37,7 @@
 
 ---
 
-### <u>*3. Внесите не менее 10 изменений на страницу с помощью инструмента разработчика и представьте скриншоты было/стало.:*</u>
+### <u>*3. Внесите не менее 10 изменений на страницу с помощью инструмента разработчика и представьте скриншоты было/стало:*</u>
 
 1. <img src="pictures/1_heading.jpg" height=50 width="150"/>
 
@@ -98,3 +98,13 @@
 :point_right: [Удаление header(шапки)](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/10_Removing_the_header.jpg "Открыть")
 
 ---
+
+### <u>*4. Создайте прототип низкой детализации (дополнительное задание, если на семинаре дошли до задания №8):*</u>
+
+<img src="pictures/low_detail_prototype.jpg" height=150 width="70"/>
+
+:point_right: [Прототип низкой детализации](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/low_detail_prototype.jpg "Открыть")
+
+---
+
+:point_right: [Вначало](#anchor "Вернуться вначало")
