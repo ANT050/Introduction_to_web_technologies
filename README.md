@@ -23,7 +23,7 @@
 
 ### <u>*1. Связь между таблицами базы данных:*</u>
 
-<img src="protocol.jpg" height=250 width="250"/>
+<img src="pictures/protocol.jpg" height=250 width="250"/>
 
 :point_right: [Связь между таблицами](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/protocol.jpg "Открыть")
 
