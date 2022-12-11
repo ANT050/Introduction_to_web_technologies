@@ -101,6 +101,8 @@
 
 ### <u>*4. Создайте прототип низкой детализации (дополнительное задание, если на семинаре дошли до задания №8):*</u>
 
+Делал при помощи сервиса HotGloo | Wireframe UX Prototyping Tool
+
 <img src="pictures/low_detail_prototype.jpg" height=150 width="70"/>
 
 :point_right: [Прототип низкой детализации](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/low_detail_prototype.jpg "Открыть")
