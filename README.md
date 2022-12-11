@@ -39,43 +39,61 @@
 
 ### <u>*3. Внесите не менее 10 изменений на страницу с помощью инструмента разработчика и представьте скриншоты было/стало.:*</u>
 
-<img src="pictures/1_heading.jpg" height=50 width="150"/>
+1. <img src="pictures/1_heading.jpg" height=50 width="150"/>
 
 :point_right: [Изменение заголовка страницы](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/1_heading.jpg "Открыть")
 
-<img src="pictures/2_pictures.jpg" height=150 width="150"/>
+---
+
+2. <img src="pictures/2_pictures.jpg" height=150 width="150"/>
 
 :point_right: [Изменение картинок](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/2_pictures.jpg "Открыть")
 
-<img src="pictures/3_background.jpg" height=150 width="150"/>
+---
+
+3. <img src="pictures/3_background.jpg" height=150 width="150"/>
 
 :point_right: [Изменение фона](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/3_background.jpg "Открыть")
 
-<img src="pictures/4_search_field.jpg" height=100 width="250"/>
+---
+
+4. <img src="pictures/4_search_field.jpg" height=100 width="250"/>
 
 :point_right: [Изменение длины поля поиска](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/4_search_field.jpg "Открыть")
 
-<img src="pictures/5_menu.jpg" height=100 width="250"/>
+---
+
+5. <img src="pictures/5_menu.jpg" height=100 width="250"/>
 
 :point_right: [Изменение меню](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/5_menu.jpg "Открыть")
 
-<img src="pictures/6_buttons.jpg" height=100 width="200"/>
+---
+
+6. <img src="pictures/6_buttons.jpg" height=100 width="200"/>
 
 :point_right: [Изменение кнопок](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/6_buttons.jpg "Открыть")
 
-<img src="pictures/7_record.jpg" height=100 width="100"/>
+---
+
+7. <img src="pictures/7_record.jpg" height=100 width="100"/>
 
 :point_right: [Удаление надписи](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/7_record.jpg "Открыть")
 
-<img src="pictures/8_button.jpg" height=50 width="150"/>
+---
+
+8. <img src="pictures/8_button.jpg" height=50 width="150"/>
 
 :point_right: [Изменение цвета кнопки "Вход"](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/8_button.jpg "Открыть")
 
-<img src="pictures/9_Removing_the_sidebar.jpg" height=100 width="100"/>
+---
+
+9. <img src="pictures/9_Removing_the_sidebar.jpg" height=100 width="100"/>
 
 :point_right: [Удаление боковой панели](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/9_Removing_the_sidebar.jpg "Открыть")
 
-<img src="pictures/10_Removing_the_header.jpg" height=100 width="100"/>
+---
+
+10. <img src="pictures/10_Removing_the_header.jpg" height=100 width="100"/>
 
 :point_right: [Удаление header(шапки)](https://github.com/ANT050/Introduction_to_web_technologies/blob/main/pictures/10_Removing_the_header.jpg "Открыть")
 
